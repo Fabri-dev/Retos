@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693076662 source:g:\facu\c\desafios\encontrar_letra_que_falta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

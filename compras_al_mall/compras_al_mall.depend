@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693959979 source:g:\facu\c\desafios\compras_al_mall\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

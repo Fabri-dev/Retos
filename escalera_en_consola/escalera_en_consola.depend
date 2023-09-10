@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694366256 source:g:\facu\c\desafios\escalera_en_consola\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694962053 source:g:\facu\c\desafios\arbol-en-consola\main.c
+	<stdio.h>
+	<stdlib.h>
+

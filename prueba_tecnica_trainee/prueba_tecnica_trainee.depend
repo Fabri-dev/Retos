@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696277623 source:g:\facu\c\desafios\prueba_tecnica_trainee\main.c
+	<stdio.h>
+	<stdlib.h>
+

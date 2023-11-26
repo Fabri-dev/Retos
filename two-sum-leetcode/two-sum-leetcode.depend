@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700956495 source:g:\facu\c\desafios\two-sum-leetcode\main.c
+	<stdio.h>
+	<stdlib.h>
+
